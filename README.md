@@ -1,16 +1,10 @@
-Here's a complete `README.md` file for your **its_easy** Flutter package:
-
----
-
-```md
 # 📦 its_easy – Simplify Flutter UI with Powerful Extensions 🚀
 
 **its_easy** is a Flutter package that enhances widget layout by providing intuitive extension methods.  
 With just one line of code, you can easily add **padding, margin, and centering** to any widget!  
 
-No more unnecessary nesting of `Padding`, `Container`, and `Center` widgets. **its_easy** makes Flutter UI development cleaner and more readable! 😍  
-
----
+No more unnecessary nesting of `Padding`, `Container`, and `Center` widgets. **its_easy** makes Flutter UI development cleaner and more readable! 😍 
+There are whole other **Features in this package that saves lots of time**
 
 ## 📌 Features
 
@@ -18,9 +12,7 @@ No more unnecessary nesting of `Padding`, `Container`, and `Center` widgets. **i
 ✅ **Simple Margin Handling** – `.marginAll(12)`, `.marginSymmetric(horizontal: 10)`  
 ✅ **Quick Centering** – `.center()` to wrap any widget inside `Center()`  
 ✅ **Chained Modifications** – `.center().paddingAll(16).marginAll(10)`  
-✅ **Cleaner and More Readable Code**  
-
----
+✅ **Cleaner and More Readable Code** and much more
 
 ## 🚀 Installation
 
@@ -108,18 +100,19 @@ If you want to contribute:
 
 🔜 **Background Color** – `.backgroundColor(Colors.blue)`  
 🔜 **Widget Alignment** – `.align(Alignment.centerRight)`  
-🔜 **More Custom Layout Helpers**
+🔜 **More Custom Layout Helpers** and much more
 
 ---
 
 ## 📢 Connect with Me
 
 💬 Got suggestions? Feel free to open an issue or contribute to the project! 🚀
+Author - Kavindu Sandaruwan
 ```
 
 ---
 
-This **README.md** provides:  
+This **Section** provides:  
 ✅ **Installation Guide**  
 ✅ **Usage Examples**  
 ✅ **Feature List**  
