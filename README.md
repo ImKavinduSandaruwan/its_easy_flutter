@@ -1,8 +1,3 @@
-Here's a complete `README.md` file for your **its_easy** Flutter package:
-
----
-
-```md
 # 📦 its_easy – Simplify Flutter UI with Powerful Extensions 🚀
 
 **its_easy** is a Flutter package that enhances widget layout by providing intuitive extension methods.  
